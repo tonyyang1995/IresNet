@@ -27,7 +27,7 @@ def print_loss(loss, epoch, total_epoch, cur_iter, total_iter):
 def val(epoch):
 	logger = open('preschooler_log.txt', 'w')
 	opt = Options().parse()
-	opt.dataroot = 'dataset/abide/labels/ours_test_reori.txt'
+	#opt.dataroot = 'dataset/abide/labels/ours_test_reori.txt'
 
 	opt.dataset_mode = 'Ours'
 	opt.name = 'preschooler'
