@@ -53,7 +53,7 @@ python3 highlight_ba.py
 ```
 your can modify the path in the main function of this scipts.
 
-## Visualizeation
+## Visualization
 We are using fsleyes to draw the images. the tutorial of fsl library can be found [here](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation).
 We first load the original nii.gz files of the MPRAGE scans, then overlay the features on it.
 Then We set up the contrast and lightness with different color bars. Details are descripted in our manuscriptes.
