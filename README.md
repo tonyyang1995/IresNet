@@ -24,7 +24,7 @@ The following is an example in the label files, please change the path into your
 ```
 /home/dao2/Desktop/fmri/dataset/mri/nii_reori/ASDP200_FAN_YI_NING_Y3846941_32626.nii.gz	None	1
 ```
-To save your time, we provide an zip file on [onedrive](https://purdue0-my.sharepoint.com/:u:/g/personal/tang385_purdue_edu/EVBYiohj_FlHjnhX73GEOXMBLbJo5rPukG95BR2m9uX6ZA?e=7xtmsZ)
+To save your time, we provide an zip file on [onedrive](https://purdue0-my.sharepoint.com/:u:/g/personal/tang385_purdue_edu/EZYPXGqCHJ1Oo7HQ-hJRESYBcza3AYowWt3A7120hlzhoA?e=y3DepZ)
 
 ## checkpoints
 Our best model are on [onedrive](https://purdue0-my.sharepoint.com/:u:/g/personal/tang385_purdue_edu/EcPFRK6Hkr9Lnw_EnRWOhNgBGdglI_ve1sSdbVo68sxZnw?e=Q3JTwM)
