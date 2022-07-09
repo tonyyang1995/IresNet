@@ -1,4 +1,5 @@
-# Deep-learning-Reveals-Brain-structural-Difference-in-Autism-Spectrum-Disorder
+# Uncovering Brain Differences in Preschoolers and Young Adolescents
+with Autism Spectrum Disorder Using Deep Learning
 ## requirements
 Please install Python3.6+ and install the following python libraries:
 ```
