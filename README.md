@@ -1,4 +1,6 @@
 # Uncovering Brain Differences in Preschoolers and Young Adolescents with Autism Spectrum Disorder Using Deep Learning
+## official implementation of our paper: [here](https://i-share-ctu.primo.exlibrisgroup.com/discovery/openurl?institution=01CARLI_CTU&vid=01CARLI_CTU:CARLI_CTU&aulast=Li&id=doi:10.1142%2FS0129065722500447&auinit=S&atitle=Uncovering%20Brain%20Differences%20in%20Preschoolers%20and%20Young%20Adolescents%20with%20Autism%20Spectrum%20Disorder%20using%20Deep%20Learning&sid=google)
+
 ## requirements
 Please install Python3.6+ and install the following python libraries:
 ```
@@ -58,3 +60,12 @@ We are using fsleyes to draw the images. the tutorial of fsl library can be foun
 We first load the original nii.gz files of the MPRAGE scans, then overlay the features on it.
 Then We set up the contrast and lightness with different color bars. Details are descripted in our manuscriptes.
 Demos of asd screenshot are shown in the demo file.
+
+## Citations
+@article{li2022uncovering,
+  title={Uncovering Brain Differences in Preschoolers and Young Adolescents with Autism Spectrum Disorder using Deep Learning},
+  author={Li, Shijun and Tang, Ziyang and Jin, Nanxin and Yang, Qiansu and Liu, Gang and Liu, Tiefang and Hu, Jianxing and Liu, Sijun and Wang, Ping and Hao, Jingru and others},
+  journal={International Journal of Neural Systems},
+  year={2022},
+  publisher={World Scientific}
+}
